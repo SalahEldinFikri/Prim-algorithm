@@ -1,0 +1,8 @@
+D:\الكلية\3 St\Term 1\ALgo\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\الكلية\3 St\Term 1\ALgo\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\الكلية\3 St\Term 1\ALgo\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\الكلية\3 St\Term 1\ALgo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\الكلية\3 St\Term 1\ALgo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\الكلية\3 St\Term 1\ALgo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\الكلية\3 St\Term 1\ALgo\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\الكلية\3 St\Term 1\ALgo\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
